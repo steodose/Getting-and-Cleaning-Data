@@ -2,7 +2,7 @@
 title: "codebook"
 author: "Stephan Teodosescu"
 date: "4/21/2019"
-output: html_document
+output: md_document
 keep_md: yes
 ---
 
